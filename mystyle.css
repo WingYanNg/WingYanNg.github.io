@@ -1,0 +1,19 @@
+body {
+    font-family: Helvetica, Geneva, Arial,
+      SunSans-Regular, sans-serif;
+  color: rgb(107, 9, 9);
+  background-color: beige }
+  
+  h1 {
+font-family: Georgia, "Times New Roman",
+      Times, serif }
+      ul.navbar li {
+background: rgba(245, 222, 201, 0.76);
+margin: 0.5em 0;
+padding: 0.3em;
+border-right: 1em solid darkred }
+
+address {
+margin-top: 1em;
+padding-top: 1em;
+border-top: thin dotted }
